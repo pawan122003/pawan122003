@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/pawan122003/pawan122003/raw/main/Pawan_Bharambe_CV.pdf)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawan122003)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanbharambe1@gmail.com)
@@ -120,31 +120,10 @@ Dynamic Security Researcher & Ethical Hacker with expertise in **Red Teaming**, 
 
 ---
 
-## 🎓 Education & Certifications
-
-### 🏛️ Formal Education
-
-**Bachelor of Science in Information Technology**  
-*Deogiri College* | 2021-2024
-
-### 📜 Professional Training & Certifications
-
-- 🏅 **AWS Security Specialty** - Amazon Web Services
-- 🏅 **RHCSA (Red Hat Certified System Administrator)** - Red Hat
-- 🏅 **CLA (C Programming Language Certified Associate)** - C++ Institute
-- 🏅 **TryHackMe Security Training** - Advanced Penetration Testing Paths
-- 🏅 **Infosys Certified Professional** - Software Development & Security
-- 🏅 **EC-Council Security Training** - Ethical Hacking & Penetration Testing
-- 🏅 **CompTIA Security+** - Computing Technology Industry Association
-
----
-
 ## 🏆 Professional Certifications & Achievements
 
 ### 🔐 Cybersecurity Specializations
 
-- 🎯 **AWS Certified Security Specialist (SCS-CO2)** - Advanced cloud security architecture and implementation
-- 🎯 **Certified Information Security Manager (CISM)** - Enterprise security governance and risk management
 - 🎯 **Cyber Security and Applied Ethical Hacking** - Infosys Springboard comprehensive security program
 - 🎯 **Penetration Testing & Ethical Hacking** - Advanced offensive security methodologies
 - 🎯 **Ethical Hacking Essentials** - Foundational ethical hacking principles and techniques
