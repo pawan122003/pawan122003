@@ -39,12 +39,14 @@ Dedicated cybersecurity professional with comprehensive expertise in **Linux sys
 ## 🛠️ Technical Skills & Expertise
 
 ### 💻 Operating Systems
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🔒 Cybersecurity & Security Tools
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
@@ -56,11 +58,9 @@ Dedicated cybersecurity professional with comprehensive expertise in **Linux sys
 - Network Security & Monitoring
 - Security Information and Event Management (SIEM)
 - Threat Intelligence & Analysis
-- Incident Response & Forensics
 
-### 🐧 Linux & System Administration
-- System Administration & Configuration
-- Shell Scripting (Bash)
+### 🐧 Linux System Administration
+
 - Server Hardening & Security
 - User & Permission Management
 - Network Configuration & Troubleshooting
@@ -68,17 +68,20 @@ Dedicated cybersecurity professional with comprehensive expertise in **Linux sys
 - Log Analysis & Monitoring
 
 ### 👨‍💻 Programming & Scripting
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Development & DevOps Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -91,36 +94,56 @@ Dedicated cybersecurity professional with comprehensive expertise in **Linux sys
 ### 🏆 Professional Certifications
 
 📜 **Certified Ethical Hacker (CEH)** - *EC-Council*
-
 📜 **CompTIA Security+** - *CompTIA*
-
 📜 **Linux System Administrator** - *Linux Foundation*
-
 📜 **Cybersecurity Fundamentals** - *IBM*
-
 📜 **Application Security** - *OWASP*
+
+## 🏅 Professional Certifications & Achievements
+
+### 🔒 Cybersecurity Specializations
+• Cyber Security and Applied Ethical Hacking (Infosys)  
+• Penetration Testing & Ethical Hacking  
+• Ethical Hacking Essentials (EC-Council)  
+• Android Bug Bounty Hunting: Hunt Like a Rat (EC-Council)
+
+### 🛠️ Technical Competencies
+• Virtual Lab: Vulnerability Scanner  
+• Virtual Lab: BASH Scripting  
+• Offensive Security Fundamentals Assessment  
+• Defensive Security Fundamentals Assessment  
+• Achievement of Advent Of Cyber 2023 (TryHackMe)  
+• Cisco LABS Crash Course
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🔐 [Security Vulnerability Scanner](https://github.com/pawan122003)
+
 A comprehensive automated security vulnerability scanner built with Python for identifying common web application vulnerabilities including XSS, SQL Injection, and CSRF.
+
 - **Tech Stack:** Python, BeautifulSoup, Requests, SQLMap
 - **Features:** Automated scanning, detailed reporting, OWASP Top 10 coverage
 
 ### 🐧 [Linux System Hardening Toolkit](https://github.com/pawan122003)
+
 Automated bash scripts for hardening Linux systems according to CIS benchmarks and security best practices.
+
 - **Tech Stack:** Bash, Linux, Security Frameworks
 - **Features:** Automated security checks, compliance reporting, remediation scripts
 
 ### 🔍 [Network Traffic Analyzer](https://github.com/pawan122003)
+
 Real-time network traffic analysis tool for detecting suspicious activities and potential security threats.
+
 - **Tech Stack:** Python, Scapy, Wireshark
 - **Features:** Packet capture, anomaly detection, threat intelligence integration
 
 ### 🛡️ [Web Application Firewall (WAF) Rules](https://github.com/pawan122003)
+
 Custom WAF rules and configurations for protecting web applications from common attacks.
+
 - **Tech Stack:** ModSecurity, Nginx, Apache
 - **Features:** OWASP Core Rule Set customization, attack pattern detection
 
@@ -142,33 +165,13 @@ Custom WAF rules and configurations for protecting web applications from common 
 
 ---
 
-## 🎯 Core Competencies
-
-```text
-✓ Vulnerability Assessment          ✓ Penetration Testing
-✓ Application Security              ✓ Network Security
-✓ Linux System Administration       ✓ Security Automation
-✓ Incident Response                 ✓ Threat Hunting
-✓ Security Architecture             ✓ Compliance & Auditing
-✓ Risk Assessment                   ✓ Security Operations
-```
-
----
-
-## 📫 Contact Information
+## 📫 Connect With Me
 
 <div align="center">
 
-### Let's Connect!
-
-📧 **Email:** [pawanbharambe1@gmail.com](mailto:pawanbharambe1@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/pawan-bharambe-022760237](https://www.linkedin.com/in/pawan-bharambe-022760237)
-
-🐙 **GitHub:** [github.com/pawan122003](https://github.com/pawan122003)
-
-📱 **Phone:** [+91 9272650555](tel:+919272650555)
-
+💼 **LinkedIn:** [linkedin.com/in/pawan-bharambe-022760237](https://www.linkedin.com/in/pawan-bharambe-022760237)  
+🐙 **GitHub:** [github.com/pawan122003](https://github.com/pawan122003)  
+📱 **Phone:** [+91 9272650555](tel:+919272650555)  
 📍 **Location:** Aurangabad, Maharashtra, India
 
 </div>
