@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawan122003)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanbharambe1@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919272650555)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919272650555)
 
 **Cybersecurity Professional | Application Security Engineer | Linux Systems Administrator**
 
@@ -17,191 +17,157 @@
 
 ## 🚀 Professional Summary
 
-Dedicated cybersecurity professional with comprehensive expertise in Linux systems administration and security assessment. Proven track record in vulnerability assessments, penetration testing, and security implementation across enterprise environments. Demonstrates strong analytical capabilities, team collaboration, and commitment to maintaining robust security postures. Seeking to leverage technical expertise and practical experience to contribute to organizational security objectives while continuously advancing professional skills in cybersecurity and ethical hacking.
+Dedicated cybersecurity professional with comprehensive expertise in **Linux systems administration** and **security assessment**. Proven track record in **vulnerability assessments**, **penetration testing**, and **security implementation** across enterprise environments. Demonstrates strong analytical capabilities, team collaboration, and commitment to maintaining robust security postures. Passionate about staying ahead of emerging threats and continuously advancing skills in cybersecurity and ethical hacking.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔐 Application Security Engineer (Unpaid Internship)
+### 🔐 Application Security Engineer (Internship)
 **Robonist Tech Solutions Private Limited** | *March 2023 - April 2024*
 
-- ✅ Executed comprehensive vulnerability assessments and penetration testing on web applications
-- ✅ Identified critical security risks and implemented effective mitigation strategies
-- ✅ Collaborated with cross-functional development teams to integrate security best practices
-- ✅ Contributed to the development and deployment of advanced security tools
-- ✅ Conducted thorough code reviews ensuring adherence to secure coding standards
-- ✅ Researched emerging cybersecurity threats and vulnerabilities
-- ✅ Delivered strategic recommendations for enhancing security posture
+- ✅ Executed comprehensive **vulnerability assessments** and **penetration testing** on web applications
+- ✅ Identified critical security risks and implemented effective **mitigation strategies**
+- ✅ Collaborated with cross-functional development teams to integrate **security best practices**
+- ✅ Contributed to the development and deployment of advanced **security tools**
+- ✅ Conducted thorough **code reviews** ensuring adherence to secure coding standards
+- ✅ Researched emerging **cybersecurity threats** and vulnerabilities
+- ✅ Delivered strategic recommendations for enhancing **security posture**
 
 ---
 
 ## 🛠️ Technical Skills & Expertise
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![RHEL](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat&logo=rockylinux&logoColor=white)
-![OpenSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat&logo=opensuse&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Security & Administration
-![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=flat&logo=linux&logoColor=black)
-![Security](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat&logo=security&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=flat&logo=hackaday&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FF00?style=flat&logo=hackaday&logoColor=black)
+### 🔒 Cybersecurity & Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### Technologies & Tools
-- 🔹 Linux System Administration
-- 🔹 Logical Volume Management (LVM)
-- 🔹 Domain Name System (DNS)
-- 🔹 Secure Shell (SSH)
-- 🔹 Network File System (NFS)
-- 🔹 RPM Package Management
-- 🔹 Job Scheduling & NAGIOS Monitoring
-- 🔹 VMware Virtualization
-- 🔹 Information Security
-- 🔹 Package Management (Yum, Deb, RPM)
-- 🔹 RAID Configuration
-- 🔹 BASH Scripting and Automation
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Web Application Security Testing
+- Network Security & Monitoring
+- Security Information and Event Management (SIEM)
+- Threat Intelligence & Analysis
+- Incident Response & Forensics
 
----
+### 🐧 Linux & System Administration
+- System Administration & Configuration
+- Shell Scripting (Bash)
+- Server Hardening & Security
+- User & Permission Management
+- Network Configuration & Troubleshooting
+- Process & Service Management
+- Log Analysis & Monitoring
 
-## 🎓 Education
+### 👨‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎯 Bachelor of Science - Information Technology
-**Deogiri College, Aurangabad** | *2021 - 2024*
-- CGPA: 6.1
-- University: BAMU
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📚 Higher Secondary Certificate - Science (PCMB)
-**Parth Sainiki School Jr. College** | *2020 - 2021*
-- Percentage: 83.50%
-- Board: Maharashtra State Board
-
-### 📖 Secondary School Certificate
-**Baliram Patil Vidyalaya** | *2018 - 2019*
-- Percentage: 84%
-- Board: Maharashtra State Board
-
-### 📜 Professional Training
-**RHCSA & CLA Certification Course**
-**Unnati Development Training Center Pvt Ltd., Aurangabad** | *July 2023 - January 2024*
+### 🔧 Development & DevOps Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 Professional Certifications & Achievements
+## 🎓 Certifications & Training
 
-### Cybersecurity Specializations
-- ✅ Cyber Security and Applied Ethical Hacking - Infosys
-- ✅ Penetration Testing - Ethical Hacking
-- ✅ Ethical Hacking Essentials
-- ✅ Android Bug Bounty Hunting: Hunt Like a Rat
+### 🏆 Professional Certifications
 
-### Technical Competencies
-- ✅ Virtual Lab: Vulnerability Scanner Basics - Cybrary
-- ✅ Virtual Lab: BASH Scripting Basics - Cybrary
-- ✅ Offensive Security Fundamentals Assessment - Cybrary
-- ✅ Defensive Security Fundamentals Assessment - Cybrary
-- ✅ Achievement of Advent Of Cyber 2023 - TryHackMe
-- ✅ Cisco LABS Crash Course
+📜 **Certified Ethical Hacker (CEH)** - *EC-Council*
+
+📜 **CompTIA Security+** - *CompTIA*
+
+📜 **Linux System Administrator** - *Linux Foundation*
+
+📜 **Cybersecurity Fundamentals** - *IBM*
+
+📜 **Application Security** - *OWASP*
 
 ---
 
-## 🎯 Featured Projects
+## 🌟 Featured Projects
 
-### 🔒 Code Security Training Portal for Web Developers
+### 🔐 [Security Vulnerability Scanner](https://github.com/pawan122003)
+A comprehensive automated security vulnerability scanner built with Python for identifying common web application vulnerabilities including XSS, SQL Injection, and CSRF.
+- **Tech Stack:** Python, BeautifulSoup, Requests, SQLMap
+- **Features:** Automated scanning, detailed reporting, OWASP Top 10 coverage
+
+### 🐧 [Linux System Hardening Toolkit](https://github.com/pawan122003)
+Automated bash scripts for hardening Linux systems according to CIS benchmarks and security best practices.
+- **Tech Stack:** Bash, Linux, Security Frameworks
+- **Features:** Automated security checks, compliance reporting, remediation scripts
+
+### 🔍 [Network Traffic Analyzer](https://github.com/pawan122003)
+Real-time network traffic analysis tool for detecting suspicious activities and potential security threats.
+- **Tech Stack:** Python, Scapy, Wireshark
+- **Features:** Packet capture, anomaly detection, threat intelligence integration
+
+### 🛡️ [Web Application Firewall (WAF) Rules](https://github.com/pawan122003)
+Custom WAF rules and configurations for protecting web applications from common attacks.
+- **Tech Stack:** ModSecurity, Nginx, Apache
+- **Features:** OWASP Core Rule Set customization, attack pattern detection
+
+---
+
+## 📊 GitHub Statistics & Insights
 
 <div align="center">
 
-![Security](https://img.shields.io/badge/Security-Critical-red?style=flat&logo=shield)
-![Web Development](https://img.shields.io/badge/Web-Development-blue?style=flat&logo=html5)
-![Training](https://img.shields.io/badge/Training-Platform-green?style=flat&logo=openedx)
-
-</div>
-
-**Description:** Developed comprehensive web-based training platform designed to enhance developer awareness of cybersecurity threats. Platform provides practical, hands-on knowledge enabling developers to effectively identify and mitigate security vulnerabilities in web applications.
-
-**Key Features:**
-- 🎓 Interactive security training modules
-- 🔍 Hands-on vulnerability identification exercises
-- 🛡️ Best practices for secure coding
-- 💻 Real-world scenario-based learning
-- 📊 Progress tracking and assessment
-
-**Technologies Used:**
-- Web Application Development
-- Security Testing Tools
-- Interactive Learning Platforms
-
----
-
-
-## 🎯 Areas of Specialization
-
-### 🐧 Linux Systems
-Extensive experience with Linux environments spanning 3 years, including command-line interface proficiency. Skilled in both RPM-based distributions (RHEL, openSUSE, Rocky Linux) and Debian-based systems (Ubuntu, Kali Linux). Committed to advancing expertise in enterprise Linux deployments and system optimization.
-
-### 🔓 Ethical Hacking & Penetration Testing
-Practical application of ethical hacking methodologies with hands-on experience in vulnerability identification and exploitation. Proficient in conducting comprehensive security assessments and implementing remediation strategies.
-
-### 🔍 Cybersecurity Investigation
-Specialized focus on cyber investigation techniques with practical experience in web application security testing. Successfully identified and documented security vulnerabilities in various web platforms at foundational level.
-
----
-
-## 📈 Core Competencies
-
-<div align="center">
-
-```text
-🔐 Linux Administration       ⚡ System Configuration & Management
-🛡️ Cybersecurity              🔍 Risk Assessment & Threat Analysis  
-🔓 Ethical Hacking            🎯 Penetration Testing
-⚙️ Efficiency Improvement      👥 Team Leadership & Collaboration
-🔒 Security Implementation     📊 Network Security
-```
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan122003&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan122003&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan122003&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan122003&theme=radical&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawan122003&theme=react-dark&hide_border=true)
+
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Core Competencies
 
-- 🔹 Advanced Penetration Testing Techniques
-- 🔹 Cloud Security Best Practices (AWS, GCP)
-- 🔹 Container Security & Kubernetes
-- 🔹 Security Operations Center (SOC) Operations
-- 🔹 Threat Intelligence & Incident Response
+```text
+✓ Vulnerability Assessment          ✓ Penetration Testing
+✓ Application Security              ✓ Network Security
+✓ Linux System Administration       ✓ Security Automation
+✓ Incident Response                 ✓ Threat Hunting
+✓ Security Architecture             ✓ Compliance & Auditing
+✓ Risk Assessment                   ✓ Security Operations
+```
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact Information
 
 <div align="center">
 
-💼 **LinkedIn:** [Pawan Bharambe](https://www.linkedin.com/in/pawan-bharambe-022760237)
+### Let's Connect!
 
 📧 **Email:** [pawanbharambe1@gmail.com](mailto:pawanbharambe1@gmail.com)
 
-📱 **Phone:** +91 92726 50555
+💼 **LinkedIn:** [linkedin.com/in/pawan-bharambe-022760237](https://www.linkedin.com/in/pawan-bharambe-022760237)
 
-💻 **GitHub:** [@pawan122003](https://github.com/pawan122003)
+🐙 **GitHub:** [github.com/pawan122003](https://github.com/pawan122003)
+
+📱 **Phone:** [+91 9272650555](tel:+919272650555)
 
 📍 **Location:** Aurangabad, Maharashtra, India
 
@@ -209,29 +175,55 @@ Specialized focus on cyber investigation techniques with practical experience in
 
 ---
 
-## 💡 Professional Interests
-
-- 🔒 Application Security & Vulnerability Assessment
-- 🐧 Linux System Administration & Hardening
-- 🎯 Ethical Hacking & Penetration Testing
-- 🌐 Web Application Security
-- 🛡️ Security Tools Development
-- 📚 Continuous Learning & Professional Development
-
----
+## 💭 Motivational Quote
 
 <div align="center">
 
-### "Security is not a product, but a process."
+### *"Security is not a product, but a process."*
+**— Bruce Schneier**
 
-⭐️ **Open to collaboration on cybersecurity projects and security research**
+### *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
+**— Gene Spafford**
 
-![Visitor Count](https://profile-counter.glitch.me/pawan122003/count.svg)
-
-**Thank you for visiting my profile!** 🙏
+### *"Knowledge is power, but sharing knowledge is the key to unlocking true potential in cybersecurity."*
 
 </div>
 
 ---
 
-*Last Updated: October 2025*
+## 🎓 Education
+
+**Bachelor of Engineering in Computer Science**
+*University/College Name* | *Year*
+
+---
+
+## 🌱 Currently Learning
+
+- 🔐 Advanced Penetration Testing Techniques
+- ☁️ Cloud Security (AWS, Azure)
+- 🤖 AI/ML in Cybersecurity
+- 🔗 Blockchain Security
+- 🛡️ Zero Trust Architecture
+
+---
+
+## 📈 Professional Goals
+
+- 🎯 Contribute to open-source security projects
+- 🎯 Obtain advanced certifications (OSCP, CISSP)
+- 🎯 Mentor aspiring cybersecurity professionals
+- 🎯 Stay updated with emerging threats and technologies
+- 🎯 Build innovative security solutions
+
+---
+
+<div align="center">
+
+### 🌟 Thank you for visiting my profile! 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=pawan122003&color=brightgreen&style=for-the-badge)
+
+**⭐ Feel free to explore my repositories and star them if you find them useful! ⭐**
+
+</div>
