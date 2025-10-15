@@ -1,4 +1,4 @@
-# 🔥 Pawan Suresh Bharambe | Cybersecurity Specialist & Ethical Hacker 🚀
+# 🔥 Pawan Suresh Bharambe | Cybersecurity Researcher & Ethical Hacker 🚀
 
 <div align="center">
 
