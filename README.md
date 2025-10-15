@@ -94,9 +94,7 @@ Dedicated cybersecurity professional with comprehensive expertise in Linux syste
 ## 🏆 Professional Certifications & Achievements
 
 ### Cybersecurity Specializations
-- ✅ AWS Certified Security Specialist (SCS-CO2)
-- ✅ Certified Information Security Manager (CISM)
-- ✅ Cyber Security and Applied Ethical Hacking - Infosys Springboard
+- ✅ Cyber Security and Applied Ethical Hacking - Infosys
 - ✅ Penetration Testing - Ethical Hacking
 - ✅ Ethical Hacking Essentials
 - ✅ Android Bug Bounty Hunting: Hunt Like a Rat
@@ -139,33 +137,6 @@ Dedicated cybersecurity professional with comprehensive expertise in Linux syste
 
 ---
 
-### 🌱 WAWAR Environmental Initiative Website
-
-<div align="center">
-
-![Environment](https://img.shields.io/badge/Environment-Sustainability-green?style=flat&logo=leaf)
-![Community](https://img.shields.io/badge/Community-Initiative-orange?style=flat&logo=people)
-![Web](https://img.shields.io/badge/Web-Platform-blue?style=flat&logo=wordpress)
-
-</div>
-
-**Description:** Created complementary website supporting environmental advocates who pioneered plastic waste conversion to Eco-Bricks during COVID-19. Platform features comprehensive sections including homepage, gallery, and news updates promoting sustainable waste management practices.
-
-**Key Features:**
-- 🏠 Engaging homepage with mission statement
-- 📸 Photo gallery showcasing Eco-Brick initiatives
-- 📰 News section for environmental updates
-- ♻️ Educational content on plastic waste conversion
-- 🌍 Community engagement platform
-
-**Technologies Used:**
-- Web Development
-- Content Management
-- Responsive Design
-
-**Impact:** Raising awareness about sustainable waste management and promoting community-driven environmental initiatives.
-
----
 
 ## 🎯 Areas of Specialization
 
