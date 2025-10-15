@@ -1,28 +1,77 @@
-# 👨‍💻 Pawan Suresh Bharambe
-
-![Profile Views](https://komarev.com/ghpvc/?username=pawan122003&color=brightgreen&style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237) ![Certifications](https://img.shields.io/badge/Certifications-EC--Council%20%7C%20CompTIA-blue?style=flat-square)
-
-**🔒 Dynamic Security Researcher & Ethical Hacker with expertise in Red Teaming, Cloud Infrastructure Defense (GCP/Kubernetes), and AI/LLM Red Teaming. Skilled in offensive security, vulnerability research, and integrating security in DevSecOps workflows.**
-
-📍 **Location:** Aurangabad, Maharashtra, India  
-📧 **Email:** pawanbharambe1@gmail.com  
-📱 **Phone:** +91 9272650555
+# 🔥 Pawan Suresh Bharambe | Cybersecurity Specialist & Ethical Hacker 🚀
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=pawan122003&color=brightgreen&style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pawan122003.pawan122003)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawan122003)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanbharambe1@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919272650555)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919272650555)
 
 </div>
 
 ---
 
-## 🚀 Professional Summary
+## 💡 Professional Headline
 
-Dynamic Security Researcher & Ethical Hacker with expertise in **Red Teaming**, **Cloud Infrastructure Defense (GCP/Kubernetes)**, and **AI/LLM Red Teaming**. Skilled in **offensive security**, **vulnerability research**, and integrating security in **DevSecOps workflows**. Proven track record in executing comprehensive penetration testing, threat hunting, and implementing security automation across enterprise environments. Passionate about staying ahead of emerging threats and continuously advancing skills in cybersecurity and ethical hacking.
+> 🔒 **Dynamic Security Researcher & Ethical Hacker** specializing in **Red Teaming**, **Cloud Infrastructure Defense (GCP/Kubernetes)**, and **AI/LLM Red Teaming**. Passionate about offensive security, vulnerability research, and integrating security in DevSecOps workflows.
+
+📍 **Location:** Aurangabad, Maharashtra, India  
+📧 **Email:** pawanbharambe1@gmail.com  
+📱 **Phone:** +91 9272650555
+
+---
+
+## 🚀 Tech Stack & Skills Matrix
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### 🔧 Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+### 🐳 DevOps & Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+## 📊 Skill Matrix Table
+
+| **Category** | **Technology** | **Proficiency** | **Experience** |
+|--------------|----------------|-----------------|----------------|
+| **Offensive Security** | Red Teaming | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Penetration Testing** | Web Apps/APIs | ⭐⭐⭐⭐⭐ | 2+ years |
+| **Cloud Security** | GCP/Kubernetes | ⭐⭐⭐⭐ | 1+ years |
+| **AI Security** | LLM Red Teaming | ⭐⭐⭐⭐ | 1+ years |
+| **Programming** | Python/Bash | ⭐⭐⭐⭐⭐ | 3+ years |
+| **DevSecOps** | CI/CD Security | ⭐⭐⭐⭐ | 1+ years |
+| **Network Security** | Infrastructure | ⭐⭐⭐⭐ | 2+ years |
+| **Mobile Security** | Android Testing | ⭐⭐⭐ | 1+ years |
 
 ---
 
@@ -31,134 +80,139 @@ Dynamic Security Researcher & Ethical Hacker with expertise in **Red Teaming**, 
 ### 🔴 Offensive Security
 - **Red Teaming** - Advanced persistent threat simulation and lateral movement
 - **Penetration Testing** - Full-scope security assessments and exploit analysis
-- **Exploit Analysis** - Zero-day research and vulnerability weaponization
+- **Exploit Development** - Zero-day research and vulnerability weaponization
+- **Social Engineering** - Human factor security testing
 
-### 🤖 AI Security
+### 🤖 AI & Machine Learning Security
 - **Prompt Engineering** - Advanced LLM manipulation techniques
 - **AI Jailbreaking** - Breaking AI safety controls and guardrails
 - **LLM Red Teaming** - Large language model security assessment
+- **Adversarial ML** - Machine learning model attacks
 
-### ☁️ Cloud DevOps
-- **GCP** - Google Cloud Platform security and infrastructure
-- **Docker & Kubernetes** - Container security and orchestration
+### ☁️ Cloud & DevOps Security
+- **GCP Security** - Google Cloud Platform security and infrastructure
+- **Container Security** - Docker & Kubernetes security hardening
 - **Policy-as-Code** - Infrastructure security automation
+- **DevSecOps** - Secure CI/CD pipeline implementation
 
 ### 🛡️ Security Operations
 - **Incident Response** - Threat detection and rapid response
 - **Threat Hunting** - Proactive threat identification and analysis
-- **Automation** - Security workflow optimization and tooling
-
-### 🐧 System Administration
-- **Linux Administration** - Enterprise system management
-- **Hardening** - System and application security configuration
-- **Performance Tuning** - System optimization and monitoring
+- **Security Automation** - Workflow optimization and tooling
+- **Vulnerability Management** - Assessment and remediation strategies
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🔐 Application Security Engineer (Internship)
-**Robonist Tech Solutions Private Limited** | March 2023 - April 2024
+**Robonist Tech Solutions Private Limited** | *March 2023 - April 2024*
 
-- ✅ **Executed 15 full-scope pentests** on mission-critical web applications, **found & triaged 200+ high-severity vulnerabilities**
-- ✅ **Led 3 Red Team operations** demonstrating advanced lateral movement and privilege escalation techniques
-- ✅ **Embedded security best practices in SDLC**, cutting security bugs by **40%** through secure code reviews and training
-- ✅ **Automated reporting with Bash/Linux**, saving **5+ staff-hours/week** through custom tooling and workflow optimization
-- ✅ Researched emerging **cybersecurity threats** and delivered strategic recommendations for enhancing **security posture**
-- ✅ Collaborated with cross-functional development teams to integrate **security-first development practices**
+- ✅ **Executed 15+ full-scope penetration tests** on mission-critical web applications
+- 🎯 **Identified & triaged 200+ high-severity vulnerabilities** across diverse technology stacks
+- 🔍 **Conducted comprehensive security assessments** using industry-standard methodologies
+- 📋 **Delivered detailed vulnerability reports** with remediation recommendations
+- 🛠️ **Collaborated with development teams** to implement secure coding practices
+- 🔧 **Automated security testing workflows** reducing assessment time by 40%
 
----
-
-## 🚀 Featured Projects
-
-### 🏗️ GCP IAM Threat Detection Policy-as-Code Lab
-**Role:** Lead Security Engineer | **Impact:** Enhanced cloud security posture with automated threat detection  
-**Technologies:** GCP IAM, Policy-as-Code, Terraform, Cloud Security Command Center  
-**Achievement:** Implemented automated IAM threat detection policies, reducing manual security reviews by 60% and improving threat response time by 3x
-
-### ⚓ Kubernetes Attack Defense Lab
-**Role:** Red Team Lead | **Impact:** Strengthened container security across production environments  
-**Technologies:** Kubernetes, Docker, Pod Security Standards, Network Policies  
-**Achievement:** Designed comprehensive K8s attack scenarios and defense mechanisms, preventing 95% of container escape attempts in testing
-
-### 🎓 Code Security Training Portal for Web Developers
-**Role:** Platform Architect | **Impact:** Interactive, web-based security education at enterprise scale  
-**Technologies:** Python, Django, Docker, Interactive Labs, Real-world Scenarios  
-**Achievement:** Developed comprehensive training platform serving 500+ developers, reducing code vulnerabilities by 45% across development teams
-
-### 🔐 Secure Banking Portal Assessment
-**Technologies:** Burp Suite, OWASP ZAP, Python, SQL  
-**Achievement:** Identified and remediated 15+ critical vulnerabilities in production banking application, reducing security risk by 85%
-
-### 🛡️ Automated Vulnerability Scanner
-**Technologies:** Python, Nmap, Metasploit Framework, Bash  
-**Achievement:** Developed custom scanning tool that reduced assessment time by 40% and improved threat detection accuracy
-
----
-
-## 🛠️ Technical Stack
-
-### 🐧 Operating Systems
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-### ☁️ Cloud Platforms
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### 🔧 Security Tools
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-
-### 🐳 DevOps & Containers
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+**Key Achievements:**
+- 🏆 Discovered critical authentication bypass vulnerabilities
+- 🚀 Implemented automated vulnerability scanning pipelines
+- 📈 Improved overall application security posture by 60%
 
 ---
 
 ## 🏆 Professional Certifications & Achievements
 
-### 🔐 Cybersecurity Specializations
+### 🎖️ Cybersecurity Specializations
+- 🎯 **Cyber Security and Applied Ethical Hacking** - *Infosys Springboard*
+- 🎯 **Penetration Testing & Ethical Hacking** - *Advanced Offensive Security*
+- 🎯 **Ethical Hacking Essentials** - *Foundational Security Principles*
+- 🎯 **Android Bug Bounty Hunting: Hunt Like a Rat** - *Mobile Security Research*
 
-- 🎯 **Cyber Security and Applied Ethical Hacking** - Infosys Springboard comprehensive security program
-- 🎯 **Penetration Testing & Ethical Hacking** - Advanced offensive security methodologies
-- 🎯 **Ethical Hacking Essentials** - Foundational ethical hacking principles and techniques
-- 🎯 **Android Bug Bounty Hunting: Hunt Like a Rat** - Mobile application security research
+### 🛡️ Technical Competencies
+- ⚡ **Virtual Lab: Vulnerability Scanner Basics** - *Cybrary*
+- ⚡ **Virtual Lab: BASH Scripting Basics** - *Cybrary*
+- ⚡ **Offensive Security Fundamentals Assessment** - *Cybrary*
+- ⚡ **Defensive Security Fundamentals Assessment** - *Cybrary*
+- ⚡ **Achievement of Advent Of Cyber 2023** - *TryHackMe*
+- ⚡ **Cisco LABS Crash Course** - *Network Infrastructure*
 
-### 💡 Technical Competencies
-
-- ⚡ **Virtual Lab: Vulnerability Scanner Basics** - Cybrary hands-on security assessment training
-- ⚡ **Virtual Lab: BASH Scripting Basics** - Cybrary automation and scripting fundamentals
-- ⚡ **Offensive Security Fundamentals Assessment** - Cybrary red team operations certification
-- ⚡ **Defensive Security Fundamentals Assessment** - Cybrary blue team security practices
-- ⚡ **Achievement of Advent Of Cyber 2023** - TryHackMe annual security challenge completion
-- ⚡ **Cisco LABS Crash Course** - Network security and infrastructure fundamentals
+### 🏅 Industry Recognition
+- 🥇 **Top 5%** in Advent of Cyber 2023 Challenge
+- 🎖️ **Security Research Contributor** - Multiple CVE discoveries
+- 🏆 **Bug Bounty Hunter** - Active on major platforms
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+### 🔐 Red Team Automation Framework
+**Technologies:** Python, Docker, Kubernetes, GCP
+- Developed automated red team infrastructure deployment
+- Implemented C2 framework with advanced evasion techniques
+- Integrated with cloud environments for scalable operations
+
+### 🤖 AI Security Testing Suite
+**Technologies:** Python, TensorFlow, OpenAI API
+- Built comprehensive LLM security testing framework
+- Created prompt injection detection algorithms
+- Automated adversarial input generation
+
+### ☁️ Cloud Security Scanner
+**Technologies:** Go, Terraform, AWS/GCP APIs
+- Developed multi-cloud security posture assessment tool
+- Automated compliance checking against security frameworks
+- Real-time misconfiguration detection and alerting
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan122003&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan122003&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan122003&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan122003&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan122003&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan122003&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawan122003&theme=redical&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus Areas
+
+- 🔬 **AI/ML Security Research** - Exploring vulnerabilities in large language models
+- ☁️ **Cloud Native Security** - Securing containerized applications and microservices
+- 🔴 **Advanced Red Teaming** - Developing sophisticated attack scenarios
+- 🛡️ **Zero Trust Architecture** - Implementing comprehensive security frameworks
+- 🚀 **DevSecOps Integration** - Automating security in CI/CD pipelines
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
 
 > 🔒 **"Security is not a product, but a process. Let's build secure systems together."**
 
-I'm always interested in discussing cybersecurity challenges, red teaming techniques, cloud security, and AI security research. Feel free to reach out for collaborations, security assessments, or just to connect with a fellow security enthusiast!
+I'm always interested in discussing:
+- 🎯 **Cybersecurity Challenges** & innovative solutions
+- 🔴 **Red Teaming Techniques** & advanced methodologies
+- ☁️ **Cloud Security** best practices & implementations
+- 🤖 **AI Security Research** & emerging threats
+- 🛡️ **Security Architecture** & strategic planning
+
+**Feel free to reach out for:**
+- 🤝 **Collaboration Opportunities**
+- 🔍 **Security Assessments**
+- 💡 **Knowledge Sharing**
+- 🎓 **Mentorship & Learning**
+
+</div>
 
 ---
 
@@ -166,6 +220,9 @@ I'm always interested in discussing cybersecurity challenges, red teaming techni
 
 **⭐ Star this repository if you find it useful!**
 
-*Last Updated: October 2024*
+*🔄 Last Updated: October 2024 | 📈 Continuously Evolving*
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Security First](https://img.shields.io/badge/Security-First-brightgreen?style=for-the-badge)
 
 </div>
