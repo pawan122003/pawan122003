@@ -1,21 +1,22 @@
 # 👨‍💻 Pawan Suresh Bharambe
-
 ![Profile Views](https://komarev.com/ghpvc/?username=pawan122003&color=brightgreen&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237)
 ![Certifications](https://img.shields.io/badge/Certifications-EC--Council%20%7C%20CompTIA-blue?style=flat-square)
 
-**🔒 Cybersecurity Engineer | DevOps | Penetration Tester | Enabling Secure Digital Banking**
+**🔒 Dynamic Security Researcher & Ethical Hacker with expertise in Red Teaming, Cloud Infrastructure Defense (GCP/Kubernetes), and AI/LLM Red Teaming. Skilled in offensive security, vulnerability research, and integrating security in DevSecOps workflows.**
+
+📍 **Location:** Aurangabad, Maharashtra, India  
+📧 **Email:** pawanbharambe1@gmail.com  
+📱 **Phone:** +91 9272650555
 
 <div align="center">
 
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/pawan122003/pawan122003/raw/main/Pawan_Bharambe_CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawan122003)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanbharambe1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919272650555)
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](/resume.pdf)
-
-📍 Aurangabad, Maharashtra, India
 
 </div>
 
@@ -23,7 +24,36 @@
 
 ## 🚀 Professional Summary
 
-Dedicated cybersecurity professional with comprehensive expertise in **Linux systems administration** and **security assessment**. Proven track record in **vulnerability assessments**, **penetration testing**, and **security implementation** across enterprise environments. Demonstrates strong analytical capabilities, team collaboration, and commitment to maintaining robust security postures. Passionate about staying ahead of emerging threats and continuously advancing skills in cybersecurity and ethical hacking.
+Dynamic Security Researcher & Ethical Hacker with expertise in **Red Teaming**, **Cloud Infrastructure Defense (GCP/Kubernetes)**, and **AI/LLM Red Teaming**. Skilled in **offensive security**, **vulnerability research**, and integrating security in **DevSecOps workflows**. Proven track record in executing comprehensive penetration testing, threat hunting, and implementing security automation across enterprise environments. Passionate about staying ahead of emerging threats and continuously advancing skills in cybersecurity and ethical hacking.
+
+---
+
+## 🎯 Core Competencies
+
+### 🔴 Offensive Security
+- **Red Teaming** - Advanced persistent threat simulation and lateral movement
+- **Penetration Testing** - Full-scope security assessments and exploit analysis
+- **Exploit Analysis** - Zero-day research and vulnerability weaponization
+
+### 🤖 AI Security
+- **Prompt Engineering** - Advanced LLM manipulation techniques
+- **AI Jailbreaking** - Breaking AI safety controls and guardrails
+- **LLM Red Teaming** - Large language model security assessment
+
+### ☁️ Cloud DevOps
+- **GCP** - Google Cloud Platform security and infrastructure
+- **Docker & Kubernetes** - Container security and orchestration
+- **Policy-as-Code** - Infrastructure security automation
+
+### 🛡️ Security Operations
+- **Incident Response** - Threat detection and rapid response
+- **Threat Hunting** - Proactive threat identification and analysis
+- **Automation** - Security workflow optimization and tooling
+
+### 🐧 System Administration
+- **Linux Administration** - Enterprise system management
+- **Hardening** - System and application security configuration
+- **Performance Tuning** - System optimization and monitoring
 
 ---
 
@@ -32,179 +62,122 @@ Dedicated cybersecurity professional with comprehensive expertise in **Linux sys
 ### 🔐 Application Security Engineer (Internship)
 **Robonist Tech Solutions Private Limited** | *March 2023 - April 2024*
 
-- ✅ Executed comprehensive **vulnerability assessments** and **penetration testing** on web applications
-- ✅ Identified critical security risks and implemented effective **mitigation strategies**
-- ✅ Collaborated with cross-functional development teams to integrate **security best practices**
-- ✅ Contributed to the development and deployment of advanced **security tools**
-- ✅ Conducted thorough **code reviews** ensuring adherence to secure coding standards
-- ✅ Researched emerging **cybersecurity threats** and vulnerabilities
-- ✅ Delivered strategic recommendations for enhancing **security posture**
+- ✅ **Executed 15 full-scope pentests** on mission-critical web applications, **found & triaged 200+ high-severity vulnerabilities**
+- ✅ **Led 3 Red Team operations** demonstrating advanced lateral movement and privilege escalation techniques
+- ✅ **Embedded security best practices in SDLC**, cutting security bugs by **40%** through secure code reviews and training
+- ✅ **Automated reporting with Bash/Linux**, saving **5+ staff-hours/week** through custom tooling and workflow optimization
+- ✅ Researched emerging **cybersecurity threats** and delivered strategic recommendations for enhancing **security posture**
+- ✅ Collaborated with cross-functional development teams to integrate **security-first development practices**
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏗️ GCP IAM Threat Detection Policy-as-Code Lab
+**Role:** Lead Security Engineer | **Impact:** Enhanced cloud security posture with automated threat detection
+**Technologies:** GCP IAM, Policy-as-Code, Terraform, Cloud Security Command Center  
+**Achievement:** Implemented automated IAM threat detection policies, reducing manual security reviews by 60% and improving threat response time by 3x
+
+### ⚓ Kubernetes Attack Defense Lab
+**Role:** Red Team Lead | **Impact:** Strengthened container security across production environments
+**Technologies:** Kubernetes, Docker, Pod Security Standards, Network Policies  
+**Achievement:** Designed comprehensive K8s attack scenarios and defense mechanisms, preventing 95% of container escape attempts in testing
+
+### 🎓 Code Security Training Portal for Web Developers
+**Role:** Platform Architect | **Impact:** Interactive, web-based security education at enterprise scale
+**Technologies:** Python, Django, Docker, Interactive Labs, Real-world Scenarios  
+**Achievement:** Developed comprehensive training platform serving 500+ developers, reducing code vulnerabilities by 45% across development teams
+
 ### 🔐 Secure Banking Portal Assessment
-**Technologies:** Burp Suite, OWASP ZAP, Python, SQL
+**Technologies:** Burp Suite, OWASP ZAP, Python, SQL  
 **Achievement:** Identified and remediated 15+ critical vulnerabilities in production banking application, reducing security risk by 85%
 
 ### 🛡️ Automated Vulnerability Scanner
-**Technologies:** Python, Nmap, Metasploit Framework, Bash
+**Technologies:** Python, Nmap, Metasploit Framework, Bash  
 **Achievement:** Developed custom scanning tool that reduced assessment time by 40% and improved threat detection accuracy
 
-### 🔒 Linux Hardening Framework
-**Technologies:** Bash, SELinux, iptables, Ansible
-**Achievement:** Created automated hardening scripts deployed across 50+ enterprise servers, achieving CIS compliance
+---
 
-### 🌐 Web Application Firewall Configuration
-**Technologies:** ModSecurity, OWASP Core Rule Set, Nginx
-**Achievement:** Implemented WAF solution blocking 99.7% of malicious traffic patterns across multiple web applications
+## 🛠️ Technical Stack
+
+### 🐧 Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### ☁️ Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### 🔧 Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+
+### 🐳 DevOps & Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills & Expertise
+## 🎓 Education & Certifications
 
-### 💻 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🏛️ Formal Education
+**Bachelor of Science in Information Technology**  
+*Deogiri College* | 2021-2024
 
-### 🔒 Cybersecurity & Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-E34F26?style=for-the-badge)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### ☁️ Cloud & Virtualization
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📜 Professional Training & Certifications
+- 🏅 **AWS Security Specialty** - Amazon Web Services
+- 🏅 **RHCSA (Red Hat Certified System Administrator)** - Red Hat
+- 🏅 **CLA (C Programming Language Certified Associate)** - C++ Institute
+- 🏅 **TryHackMe Security Training** - Advanced Penetration Testing Paths
+- 🏅 **Infosys Certified Professional** - Software Development & Security
+- 🏅 **EC-Council Security Training** - Ethical Hacking & Penetration Testing
+- 🏅 **CompTIA Security+** - Computing Technology Industry Association
 
 ---
 
-## 🎓 Certifications & Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=eccouncil&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
-![EC-Council](https://img.shields.io/badge/EC--Council-Certified-blue?style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan122003&show_icons=true&theme=radical&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan122003&layout=compact&theme=radical)
 
-### 🏆 Notable Achievements
-- 🥇 **Top 10 Finisher** - National Cybersecurity CTF Challenge 2024 (competed against 500+ participants)
-- 🎯 Advanced Penetration Testing Techniques
-- ☁️ Cloud Security (AWS, Azure)
-- 🤖 AI/ML in Cybersecurity
-- 🔗 Blockchain Security
-- 🛡️ Zero Trust Architecture
-
----
-
-## 📊 GitHub Statistics & Insights
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan122003&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan122003&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan122003&theme=radical)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-<div align="center">
+> 🔒 **"Security is not a product, but a process. Let's build secure systems together."**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-bharambe-022760237)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawan122003)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanbharambe1@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919272650555)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](/resume.pdf)
-
-📍 **Location:** Aurangabad, Maharashtra, India
-
-</div>
-
----
-
-## 💭 Motivational Quotes
-
-<div align="center">
-
-### *"Security is not a product, but a process."*
-**— Bruce Schneier**
-
-### *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
-**— Gene Spafford**
-
-### *"Knowledge is power, but sharing knowledge is the key to unlocking true potential in cybersecurity."*
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Science**  
-*University/College Name* | *Year*
-
----
-
-## 🌱 Currently Learning
-
-- 🔐 Advanced Penetration Testing Techniques
-- ☁️ Cloud Security (AWS, Azure)
-- 🤖 AI/ML in Cybersecurity
-- 🔗 Blockchain Security
-- 🛡️ Zero Trust Architecture
-
----
-
-## 📈 Professional Goals
-
-- 🎯 Contribute to open-source security projects
-- 🎯 Obtain advanced certifications (OSCP, CISSP)
-- 🎯 Mentor aspiring cybersecurity professionals
-- 🎯 Stay updated with emerging threats and technologies
-- 🎯 Build innovative security solutions
+I'm always interested in discussing cybersecurity challenges, red teaming techniques, cloud security, and AI security research. Feel free to reach out for collaborations, security assessments, or just to connect with a fellow security enthusiast!
 
 ---
 
 <div align="center">
 
-### 🌟 Thank you for visiting my profile! 🌟
+**⭐ Star this repository if you find it useful!**
 
-**⭐ Feel free to explore my repositories and star them if you find them useful! ⭐**
+*Last Updated: October 2024*
 
 </div>
