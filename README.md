@@ -36,116 +36,52 @@ Dedicated cybersecurity professional with comprehensive expertise in **Linux sys
 
 ---
 
+## 🌟 Featured Projects
+
+### 🌐 Code Security Training Portal for Web Developers
+Developed a comprehensive web-based training platform to enhance developer awareness of cybersecurity threats. The platform provides practical, hands-on knowledge, enabling developers to effectively identify and mitigate security vulnerabilities in web applications.
+
+---
+
 ## 🛠️ Technical Skills & Expertise
 
 ### 💻 Operating Systems
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🔒 Cybersecurity & Security Tools
-
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E34F26?style=for-the-badge)
 
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Web Application Security Testing
-- Network Security & Monitoring
-- Security Information and Event Management (SIEM)
-- Threat Intelligence & Analysis
-
-### 🐧 Linux System Administration
-
-- Server Hardening & Security
-- User & Permission Management
-- Network Configuration & Troubleshooting
-- Process & Service Management
-- Log Analysis & Monitoring
-
-### 👨‍💻 Programming & Scripting
-
+### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗄️ Databases
+### 🌐 Web Technologies & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 🗄️ Database Management
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Development & DevOps Tools
-
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎓 Certifications & Training
-
-### 🏆 Professional Certifications
-
-📜 **Certified Ethical Hacker (CEH)** - *EC-Council*
-📜 **CompTIA Security+** - *CompTIA*
-📜 **Linux System Administrator** - *Linux Foundation*
-📜 **Cybersecurity Fundamentals** - *IBM*
-📜 **Application Security** - *OWASP*
-
-## 🏅 Professional Certifications & Achievements
-
-### 🔒 Cybersecurity Specializations
-• Cyber Security and Applied Ethical Hacking (Infosys)  
-• Penetration Testing & Ethical Hacking  
-• Ethical Hacking Essentials (EC-Council)  
-• Android Bug Bounty Hunting: Hunt Like a Rat (EC-Council)
-
-### 🛠️ Technical Competencies
-• Virtual Lab: Vulnerability Scanner  
-• Virtual Lab: BASH Scripting  
-• Offensive Security Fundamentals Assessment  
-• Defensive Security Fundamentals Assessment  
-• Achievement of Advent Of Cyber 2023 (TryHackMe)  
-• Cisco LABS Crash Course
-
----
-
-## 🌟 Featured Projects
-
-### 🔐 [Security Vulnerability Scanner](https://github.com/pawan122003)
-
-A comprehensive automated security vulnerability scanner built with Python for identifying common web application vulnerabilities including XSS, SQL Injection, and CSRF.
-
-- **Tech Stack:** Python, BeautifulSoup, Requests, SQLMap
-- **Features:** Automated scanning, detailed reporting, OWASP Top 10 coverage
-
-### 🐧 [Linux System Hardening Toolkit](https://github.com/pawan122003)
-
-Automated bash scripts for hardening Linux systems according to CIS benchmarks and security best practices.
-
-- **Tech Stack:** Bash, Linux, Security Frameworks
-- **Features:** Automated security checks, compliance reporting, remediation scripts
-
-### 🔍 [Network Traffic Analyzer](https://github.com/pawan122003)
-
-Real-time network traffic analysis tool for detecting suspicious activities and potential security threats.
-
-- **Tech Stack:** Python, Scapy, Wireshark
-- **Features:** Packet capture, anomaly detection, threat intelligence integration
-
-### 🛡️ [Web Application Firewall (WAF) Rules](https://github.com/pawan122003)
-
-Custom WAF rules and configurations for protecting web applications from common attacks.
-
-- **Tech Stack:** ModSecurity, Nginx, Apache
-- **Features:** OWASP Core Rule Set customization, attack pattern detection
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -196,7 +132,7 @@ Custom WAF rules and configurations for protecting web applications from common 
 
 ## 🎓 Education
 
-**Bachelor of Engineering in Computer Science**
+**Bachelor of Engineering in Computer Science**  
 *University/College Name* | *Year*
 
 ---
