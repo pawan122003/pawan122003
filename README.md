@@ -74,8 +74,6 @@ I'm actively seeking collaboration opportunities in:
 - **[Project Name]** - LLM prompt injection test suite
 - **[Project Name]** - Adversarial machine learning experiments
 
-*Note: Update with your actual repository links once created/made public*
-
 ---
 
 ## 🚀 Tech Stack & Skills Matrix
@@ -123,19 +121,11 @@ I'm actively seeking collaboration opportunities in:
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🎯 **[Add Your Certifications]** (e.g., CEH, OSCP, Security+, Cloud certifications)
-- 🐛 **Bug Bounty Hunter** - [Platform names and notable finds if applicable]
-- 🏅 **[Competition Wins/CTF Rankings]**
-- 📜 **[Other Notable Achievements]**
-
----
 
 ## 💡 Fun Facts
 
 - ⚡ I love tackling complex security challenges and CTF competitions
-- 🎮 When not hacking, I enjoy [your hobby]
+- 🎮 When not hacking, I enjoy playing
 - 🌱 Always learning and staying updated with the latest security trends
 - 💬 Ask me about: Ethical Hacking, Cloud Security, AI Red Teaming, or Kubernetes hardening
 
