@@ -56,24 +56,6 @@ I'm actively seeking collaboration opportunities in:
 - 🐙 **GitHub**: You're already here! Check out my repositories below
 
 **Response Time**: I typically respond within 24 hours on weekdays
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Security & Penetration Testing
-- **[Project Name]** - Description of your top security project (e.g., automated vulnerability scanner, exploit toolkit)
-- **[Project Name]** - Cloud security automation tool for GCP/AWS
-- **[Project Name]** - AI red teaming framework for LLM testing
-
-### ☁️ Cloud & DevSecOps
-- **[Project Name]** - Kubernetes security monitoring solution
-- **[Project Name]** - Infrastructure-as-Code security scanner
-
-### 🤖 AI/ML Security
-- **[Project Name]** - LLM prompt injection test suite
-- **[Project Name]** - Adversarial machine learning experiments
-
 ---
 
 ## 🚀 Tech Stack & Skills Matrix
